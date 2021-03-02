@@ -1,6 +1,12 @@
 
 <h1>Open for (neuro)science EM Connectomics Repo </h1>
 
+<h2>Installation and Downloads</h2>
+
+1. conda env create -f environment.yml
+
+2. ./download.sh
+
 
 <h2>For Tutorial:</h2>
 
