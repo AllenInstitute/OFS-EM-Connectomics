@@ -1,5 +1,5 @@
 
-<h1>Open for Science EM Connectomics Repo </h1>
+<h1>Open for (neuro)science EM Connectomics Repo </h1>
 
 
 <h2>For Tutorial:</h2>
