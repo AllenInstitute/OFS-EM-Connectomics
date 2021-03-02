@@ -25,6 +25,11 @@ Allen data website:  https://portal.brain-map.org/explore/connectivity
 
 Microns Data Website:         https://microns-explorer.org
 
+<h2> Quick Info: </h2>
+
 Image Data Source: 
 
 Segmentation Data Source: 
+
+Synapse table:
+
