@@ -33,3 +33,7 @@ Segmentation Data Source:
 
 Synapse table:
 
+Soma valence table:
+
+Meshes:
+
