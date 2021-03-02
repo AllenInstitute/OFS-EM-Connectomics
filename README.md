@@ -25,7 +25,7 @@ Allen data website:  https://portal.brain-map.org/explore/connectivity
 
 Microns Data Website:         https://microns-explorer.org
 
-<h2> Quick Info: </h2>
+<h2> Data Access CheatSheet: </h2>
 
 Image Data Source: 
 
