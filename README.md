@@ -31,9 +31,10 @@ Image Data Source:
 
 Segmentation Data Source: 
 
-Synapse table:
+Synapse table: pni_synapses_v185.csv , downloaded from: [here](https://zenodo.org/record/3710459/files/pni_synapses_v185.csv?download=1)
 
-Soma valence table:
+Soma valence table: soma_valence_v185.csv, downloaded from : [here](https://zenodo.org/record/3710459/files/soma_valence_v185.csv?download=1)
 
-Meshes:
+Fixed Meshes of Cells with Soma in the Dataset: layer23_v185.tar.gz [here](https://zenodo.org/record/3710459/files/layer23_v185.tar.gz?download=1) 
 
+Proofread Soma Subgraph Synapses: soma_subgraph_synapses_spines_v185.csv [here](https://zenodo.org/record/3710459/files/soma_subgraph_synapses_spines_v185.csv?download=1)
