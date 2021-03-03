@@ -32,7 +32,7 @@ Here is a quick cheat sheet with links to data sources for the publicly availabl
 |Full Synapse Table| [pni_synapses_v185.csv](https://zenodo.org/record/3710459/files/pni_synapses_v185.csv?download=1)
 |Soma Subgraph Synapses | [soma_subgraph_synapses_spines_v185.csv](https://zenodo.org/record/3710459/files/soma_subgraph_synapses_spines_v185.csv?download=1)
 |Full Soma Valence Table | [soma_valence_v185.csv](https://zenodo.org/record/3710459/files/soma_valence_v185.csv?download=1)
-|Full set of Cell Meshes (Fixed)* | [layer23_v185.tar.gz](https://zenodo.org/record/3710459/files/layer23_v185.tar.gz?download=1)
+|Full set of Cell Meshes (Fixed)* | [layer23_v185.tar.gz](https://zenodo.org/record/3710459/files/layer23_v185.tar.gz?download=1) (Large File, Not Needed for Tutorial)
 
 
 
