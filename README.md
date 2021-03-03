@@ -8,15 +8,15 @@
 - ./download_synapses.sh
 
 
-<h2>Links for Tutorial:</h2>
+<h2>Important Links for Tutorial:</h2>
 
-- Link to open Neuroglancer link with Microns Data loaded: https://layer23.microns-explorer.org/
 
-- Notebook 1: for Getting Data Into and out of Neuroglancer: https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/GettingDataIntoAndOutOfNeuroglancer.ipynb
-
-- Notebook 2: for Mesh Analysis: https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/MeshExample.ipynb
-
-- Notebook 3: for Downloading Images and Segmentations: https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/Downloading%20Images%20and%20Segmentations.ipynb
+| Info   |  Link
+|--------|---------
+|Neuroglancer link with Microns Data loaded: | https://layer23.microns-explorer.org/
+|Notebook 1: <p> Getting Data Into and out of Neuroglancer: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/GettingDataIntoAndOutOfNeuroglancer.ipynb
+|Notebook 2:  <p> Mesh Analysis: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/MeshExample.ipynb
+|Notebook 3:  <p> Downloading Images and Segmentations: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/Downloading%20Images%20and%20Segmentations.ipynb
 
 
 <h2> MICrONS Data Access CheatSheet: </h2>
