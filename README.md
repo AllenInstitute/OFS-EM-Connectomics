@@ -27,8 +27,8 @@ Here is a quick cheat sheet with links to data sources for the publicly availabl
 
 | Data   |  Source
 |--------|---------
-|Image Data | precomputed://https://storage.googleapis.com/microns_public_datasets/pinky100_v0/son_of_alignment_v15_rechunked
-|Segmentation Data | precomputed://https://storage.googleapis.com/microns_public_datasets/pinky100_v185/seg
+|Image Data | "precomputed://https://storage.googleapis.com/microns_public_datasets/pinky100_v0/son_of_alignment_v15_rechunked"
+|Segmentation Data | "precomputed://https://storage.googleapis.com/microns_public_datasets/pinky100_v185/seg"
 |Full Synapse Table| [pni_synapses_v185.csv](https://zenodo.org/record/3710459/files/pni_synapses_v185.csv?download=1)
 |Soma Subgraph Synapses | [soma_subgraph_synapses_spines_v185.csv](https://zenodo.org/record/3710459/files/soma_subgraph_synapses_spines_v185.csv?download=1)
 |Full Soma Valence Table | [soma_valence_v185.csv](https://zenodo.org/record/3710459/files/soma_valence_v185.csv?download=1)
