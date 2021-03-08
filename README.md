@@ -15,7 +15,7 @@
 |--------|---------
 |Neuroglancer link with Microns Data loaded: | https://layer23.microns-explorer.org/
 |Notebook 1: <p> Getting Data Into and out of Neuroglancer: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/GettingDataIntoAndOutOfNeuroglancer.ipynb
-|Notebook 2:  <p> Mesh Analysis: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/MeshExample.ipynb
+|Notebook 2:  <p> Mesh Analysis: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/2_AnalyzingAndVisualizingMeshes.ipynb
 |Notebook 3:  <p> Downloading Images and Segmentations: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/Downloading%20Images%20and%20Segmentations.ipynb
 
 
@@ -35,6 +35,7 @@ Here is a quick cheat sheet with links to data sources for the publicly availabl
 |Full Synapse Table| [pni_synapses_v185.csv](https://zenodo.org/record/3710459/files/pni_synapses_v185.csv?download=1)
 |Soma Subgraph Synapses | [soma_subgraph_synapses_spines_v185.csv](https://zenodo.org/record/3710459/files/soma_subgraph_synapses_spines_v185.csv?download=1)
 |Full Soma Valence Table | [soma_valence_v185.csv](https://zenodo.org/record/3710459/files/soma_valence_v185.csv?download=1)
+|Example Meshes for Tutorial | "https://figshare.com/projects/Open_For_Science_-_MICrONS_Explorer_Tutorial/99908"
 |Full set of Cell Meshes (Fixed)* | [layer23_v185.tar.gz](https://zenodo.org/record/3710459/files/layer23_v185.tar.gz?download=1) (Large File, Not Needed for Tutorial)
 
 
