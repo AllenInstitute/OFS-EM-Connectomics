@@ -19,8 +19,8 @@ Note that download.sh will download files to the data directory, which already c
 |Neuroglancer link with Microns Data loaded: | https://layer23.microns-explorer.org/
 |Notebook 1: <p> Getting Data Into and out of Neuroglancer: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/1_Synapses_Soma_and_Data_in_Neuroglancer.ipynb
 |Notebook 2:  <p> Mesh Analysis: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/2_AnalyzingAndVisualizingMeshes.ipynb
-|Notebook 3:  <p> Downloading Images and Segmentations: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/3_Downloading%20Images%20and%20Segmentations.ipynb
-|Additional Notebook: <p> Synapses, Soma and Neuroglancer Analysis| https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/3_Downloading_Images_and_Segmentations.ipynb
+|Notebook 3:  <p> Downloading Images and Segmentations: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/3_Downloading_Images_and_Segmentations.ipynb
+|Additional Notebook: <p> Synapses, Soma and Neuroglancer Analysis| https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/Additional_Synapses_Soma_and_Neuroglancer_Analysis.ipynb
 
 
 <h2> MICrONS Data Access CheatSheet: </h2>
