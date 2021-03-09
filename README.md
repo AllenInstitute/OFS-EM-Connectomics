@@ -2,11 +2,14 @@
 <h1>Open for (neuro)science EM Connectomics Repo </h1>
 
 <h2>Installations For Tutorial:</h2>
+You can setup a conda environment and download larger data files (synapse database and two mesh examples) by running the following:
 
 ```
 conda env create -f environment.yml
 ./download.sh
 ```
+
+Note that download.sh will download files to the data directory, which already contains the smaller data files which will be used in the tutorial.
 
 <h2>Important Links for Tutorial:</h2>
 
