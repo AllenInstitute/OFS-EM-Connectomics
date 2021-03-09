@@ -3,10 +3,10 @@
 
 <h2>Installations For Tutorial:</h2>
 
-- conda env create -f environment.yml
-
-- ./download_synapses.sh
-
+'''
+conda env create -f environment.yml
+./download.sh
+'''
 
 <h2>Important Links for Tutorial:</h2>
 
@@ -40,10 +40,13 @@ Here is a quick cheat sheet with links to data sources for the publicly availabl
 
 
 
-*The Full set of Cell Meshes (Fixed) is a large file containing h5 mesh files for all cells in the volume. Each of these meshes has been "fixed" to add extra edges that connect disconnected portions of the mesh. These meshes therefore will differ from meshes directly downloaded from the segmentation data source (row 2). This is not required for the tutorial. Example mesh files for the tutorial are available in the <b>data</b> directory. 
+*The Full set of Cell Meshes (Fixed) is a large file containing h5 mesh files for all cells in the volume. Each of these meshes has been "fixed" to add extra edges that connect disconnected portions of the mesh. These meshes therefore will differ from meshes directly downloaded from the segmentation data source (row 2). This is not required for the tutorial. Example mesh files for the tutorial are available [here](https://figshare.com/projects/Open_For_Science_-_MICrONS_Explorer_Tutorial/99908). 
 
 <h2>Other Resources:</h2>
 
 - Allen data website:  https://portal.brain-map.org/explore/connectivity
 
 - Microns Data Website:         https://microns-explorer.org
+
+- Microns Binder Website: https://github.com/AllenInstitute/MicronsBinder
+
