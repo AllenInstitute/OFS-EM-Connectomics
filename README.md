@@ -3,10 +3,10 @@
 
 <h2>Installations For Tutorial:</h2>
 
-'''
+```
 conda env create -f environment.yml
 ./download.sh
-'''
+```
 
 <h2>Important Links for Tutorial:</h2>
 
