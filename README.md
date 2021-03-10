@@ -26,7 +26,7 @@ Note that download.sh will download ~600MB of files to the `data` directory, whi
 <h2> MICrONS Data Access CheatSheet: </h2>
 
 
-If you have downloaded this repo and run download_synapses.sh, you do not need to download anything else to run the tutorial examples. This cheatsheet serves as a quick reference only to display all sources of the data which you could use for your analysis.
+If you have downloaded this repo and run download.sh, you do not need to download anything else to run the tutorial examples. This cheatsheet serves as a quick reference only to display all sources of the data which you could use for your analysis.
 
 Here is a quick cheat sheet with links to data sources for the publicly available MICrONS dataset. All of these are obtainable at http://microns-explorer.org. The examples in tutorial notebooks show you use the precomputed Image and Segmentation sources to download these from source. They also show examples of data analysis using the Full Synapse Table, Soma Subgraph Synapses (further proofread to remove false positive synapses between the excitatory cells with somas in the volume.  It also contains the spine head volume measurements.)  and the Full Soma Valence Table. 
 
