@@ -2,11 +2,14 @@
 <h1>Open for (neuro)science EM Connectomics Repo </h1>
 
 <h2>Installations For Tutorial:</h2>
+You can setup a conda environment and download larger data files (synapse database and two mesh examples) by running the following:
 
-- conda env create -f environment.yml
+```
+conda env create -f environment.yml
+./download.sh
+```
 
-- ./download_synapses.sh
-
+Note that download.sh will download files to the data directory, which already contains the smaller data files which will be used in the tutorial.
 
 <h2>Important Links for Tutorial:</h2>
 
@@ -14,9 +17,10 @@
 | Info   |  Link
 |--------|---------
 |Neuroglancer link with Microns Data loaded: | https://layer23.microns-explorer.org/
-|Notebook 1: <p> Getting Data Into and out of Neuroglancer: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/GettingDataIntoAndOutOfNeuroglancer.ipynb
+|Notebook 1: <p> Getting Data Into and out of Neuroglancer: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/1_Synapses_Soma_and_Data_in_Neuroglancer.ipynb
 |Notebook 2:  <p> Mesh Analysis: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/2_AnalyzingAndVisualizingMeshes.ipynb
-|Notebook 3:  <p> Downloading Images and Segmentations: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/Downloading%20Images%20and%20Segmentations.ipynb
+|Notebook 3:  <p> Downloading Images and Segmentations: | https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/3_Downloading_Images_and_Segmentations.ipynb
+|Additional Notebook: <p> Synapses, Soma and Neuroglancer Analysis| https://github.com/AllenInstitute/OFS-EM-Connectomics/blob/main/notebooks/Additional_Synapses_Soma_and_Neuroglancer_Analysis.ipynb
 
 
 <h2> MICrONS Data Access CheatSheet: </h2>
@@ -40,10 +44,13 @@ Here is a quick cheat sheet with links to data sources for the publicly availabl
 
 
 
-*The Full set of Cell Meshes (Fixed) is a large file containing h5 mesh files for all cells in the volume. Each of these meshes has been "fixed" to add extra edges that connect disconnected portions of the mesh. These meshes therefore will differ from meshes directly downloaded from the segmentation data source (row 2). This is not required for the tutorial. Example mesh files for the tutorial are available in the <b>data</b> directory. 
+*The Full set of Cell Meshes (Fixed) is a large file containing h5 mesh files for all cells in the volume. Each of these meshes has been "fixed" to add extra edges that connect disconnected portions of the mesh. These meshes therefore will differ from meshes directly downloaded from the segmentation data source (row 2). This is not required for the tutorial. Example mesh files for the tutorial are available [here](https://figshare.com/projects/Open_For_Science_-_MICrONS_Explorer_Tutorial/99908). 
 
 <h2>Other Resources:</h2>
 
 - Allen data website:  https://portal.brain-map.org/explore/connectivity
 
 - Microns Data Website:         https://microns-explorer.org
+
+- Microns Binder Website: https://github.com/AllenInstitute/MicronsBinder
+
